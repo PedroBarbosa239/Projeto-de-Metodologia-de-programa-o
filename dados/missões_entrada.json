@@ -1,0 +1,60 @@
+{
+	"sondas_espacial":[
+		{"nome":"Voyager 1","tempo_estimado_operacao":"46 anos","fonte_alimentacao":"Painéis solares"},
+        {"nome":"Mars Perseverance","tempo_estimado_operacao":"Em andamento","fonte_alimentacao":"Pilhas nucleares de plutônio"},
+		{"nome":"New Horizons","tempo_estimado_operacao":"Mais de 15 anos","fonte_alimentacao":"Painéis solares"},
+        {"nome":"Hubble Space Telescope","tempo_estimado_operacao":"andamento","fonte_alimentacao":"Pilhas nucleares de plutônio"},
+		{"nome":"Cassini","tempo_estimado_operacao":"Cerca de 20 anos","fonte_alimentacao":"Painéis solares"},
+        {"nome":"ISS","tempo_estimado_operacao":"Em andamento","fonte_alimentacao":"Painéis solares"}
+
+	],
+
+
+	"planetas": {
+		"Saturno": {
+			"nome": "Saturno",
+			"diâmetro":120.536 ,
+			"composição":"gasoso",
+			"luas": [
+				{"nome":"Atlas","diametro":30.2,"distancia_minima_planeta":137670,"distancia_maxima_planeta":137670},
+                {"nome":"Mimas","diametro":220,"distancia_minima_planeta":181460,"distancia_maxima_planeta":198140},
+				{"nome":"Titã","diametro":5150,"distancia_minima_planeta":1221870,"distancia_maxima_planeta":1221870},
+                {"nome":"Encélado","diametro":504,"distancia_minima_planeta":237950,"distancia_maxima_planeta":238020},
+                {"nome":"Jápeto","diametro":1.470,"distancia_minima_planeta":3561300,"distancia_maxima_planeta":3561300},
+                {"nome":"Hiperião","diametro":220,"distancia_minima_planeta":1481100,"distancia_maxima_planeta":1489800},
+				{"nome":"Febe","diametro":220,"distancia_minima_planeta":18520,"distancia_maxima_planeta":19950}
+]
+		},
+
+		"Jupiter": {
+			"nome": "Júpiter",
+			"diâmetro":139.820 ,
+			"composição":"gasoso",
+			"luas": [
+				{"nome":"Io","diametro":3642,"distancia_minima_planeta":421700,"distancia_maxima_planeta":422000},
+                {"nome":"Europa","diametro":3122,"distancia_minima_planeta":671034,"distancia_maxima_planeta":676938},
+				{"nome":"Ganimedes","diametro":5268,"distancia_minima_planeta":1070412,"distancia_maxima_planeta":1071742},
+                {"nome":"Calisto","diametro":4820,"distancia_minima_planeta":1868934,"distancia_maxima_planeta":1872742},
+                {"nome":"Amalteia","diametro":170,"distancia_minima_planeta":181366,"distancia_maxima_planeta":181366},
+                {"nome":"Tebe","diametro":5262,"distancia_minima_planeta":221889,"distancia_maxima_planeta":226000},
+				{"nome":"Himalia","diametro":170,"distancia_minima_planeta":10456926,"distancia_maxima_planeta":11471936}
+			]
+		}
+	},
+
+
+	"MissãoObservação" : {
+      "Cassini": {
+          "Saturno": {
+			  "nome": "Cassini-Huygens ",
+			  "ano_inicio":1999
+		  }
+	  },
+		"Voyager 1": {
+			"Saturno": {
+				"nome": "Mariner Jupiter-Saturn",
+				"ano_inicio":1987
+			}
+      	}
+	}
+}

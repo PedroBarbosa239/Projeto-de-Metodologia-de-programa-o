@@ -1,0 +1,84 @@
+
+Selecionar o planeta
+1 -   Saturno
+2 -   Júpiter
+número do planeta a ser executada : 2
+
+ Opções para planetas
+1- sondas
+2- missão
+3- Ordenação de Luas por ordem descrescente de diametro
+4- Ordenação de Luas por ordem descrescente da distância minima do planeta
+5- Ordenação de Luas por diâmetro e distância minima do planeta
+Número da opção a ser executada : 1
+
+Sondas
+1 -   Voyager 1
+2 -   Mars Perseverance
+3 -   New Horizons
+4 -   Hubble Space Telescope
+5 -   Cassini
+6 -   ISS
+
+ Opções para planetas
+1- sondas
+2- missão
+3- Ordenação de Luas por ordem descrescente de diametro
+4- Ordenação de Luas por ordem descrescente da distância minima do planeta
+5- Ordenação de Luas por diâmetro e distância minima do planeta
+Número da opção a ser executada : 2
+
+Missão observacional
+1 -   Cassini-Huygens           Saturno    diâmetro:120.536     composição:gasoso    Sonda:Cassini     Time operation:Cerca de 20 anos     fonte alimentação:Painéis solares 
+2 -   Mariner Jupiter-Saturn    Saturno    diâmetro:120.536     composição:gasoso    Sonda:Voyager 1   Time operation:46 anos              fonte alimentação:Painéis solares 
+
+ Opções para planetas
+1- sondas
+2- missão
+3- Ordenação de Luas por ordem descrescente de diametro
+4- Ordenação de Luas por ordem descrescente da distância minima do planeta
+5- Ordenação de Luas por diâmetro e distância minima do planeta
+Número da opção a ser executada : 3
+
+Ordenação de Luas por ordem descrescente de diametro
+1 -   Ganimedes            5268 km   1070412 km   1071742 km
+2 -   Tebe                 5262 km    221889 km    226000 km
+3 -   Calisto              4820 km   1868934 km   1872742 km
+4 -   Io                   3642 km    421700 km    422000 km
+5 -   Europa               3122 km    671034 km    676938 km
+6 -   Amalteia              170 km    181366 km    181366 km
+7 -   Himalia               170 km  10456926 km  11471936 km
+
+ Opções para planetas
+1- sondas
+2- missão
+3- Ordenação de Luas por ordem descrescente de diametro
+4- Ordenação de Luas por ordem descrescente da distância minima do planeta
+5- Ordenação de Luas por diâmetro e distância minima do planeta
+Número da opção a ser executada : 4
+
+Ordenação de Luas por ordem descrescente da distância minima do planeta
+1 -   Himalia               170 km  10456926 km  11471936 km
+2 -   Calisto              4820 km   1868934 km   1872742 km
+3 -   Ganimedes            5268 km   1070412 km   1071742 km
+4 -   Europa               3122 km    671034 km    676938 km
+5 -   Io                   3642 km    421700 km    422000 km
+6 -   Tebe                 5262 km    221889 km    226000 km
+7 -   Amalteia              170 km    181366 km    181366 km
+
+ Opções para planetas
+1- sondas
+2- missão
+3- Ordenação de Luas por ordem descrescente de diametro
+4- Ordenação de Luas por ordem descrescente da distância minima do planeta
+5- Ordenação de Luas por diâmetro e distância minima do planeta
+Número da opção a ser executada : 5
+
+Ordenação de Luas por diâmetro e distância minima do planeta
+1 -   Ganimedes            5268 km   1070412 km   1071742 km
+2 -   Tebe                 5262 km    221889 km    226000 km
+3 -   Calisto              4820 km   1868934 km   1872742 km
+4 -   Io                   3642 km    421700 km    422000 km
+5 -   Europa               3122 km    671034 km    676938 km
+6 -   Himalia               170 km  10456926 km  11471936 km
+7 -   Amalteia              170 km    181366 km    181366 km
